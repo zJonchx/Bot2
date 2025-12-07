@@ -10,7 +10,7 @@ if not TOKEN:
     print("ERROR: No se ha encontrado el token de Discord, define la variable de entorno KEYS (por ejemplo desde secrets.KEYS en GitHub Actions).")
     exit(1)
 
-BOT_PREFIX = '$'
+BOT_PREFIX = '!'
 
 # Inicializa el bot con intents básicos
 intents = discord.Intents.default()
